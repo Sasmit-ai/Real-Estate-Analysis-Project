@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bitcoin-Twitter-Sentiment-Analysis-Project/.idea/Bitcoin-Twitter-Senitment-Analysis-Project.iml" filepath="$PROJECT_DIR$/../Bitcoin-Twitter-Sentiment-Analysis-Project/.idea/Bitcoin-Twitter-Senitment-Analysis-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NBA Data Analysis Project/NBA-Data-Analysis-Project/.idea/NBA-Data-Analysis-Project.iml" filepath="$PROJECT_DIR$/../NBA Data Analysis Project/NBA-Data-Analysis-Project/.idea/NBA-Data-Analysis-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Real estate project.iml" filepath="$PROJECT_DIR$/.idea/Real estate project.iml" />
     </modules>
